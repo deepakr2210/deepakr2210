@@ -40,9 +40,10 @@ https://github.com/user-attachments/assets/735b7227-9c3b-416b-b3b8-5634fb23791b
 
 ### [Time optimal trajectory planning for a UAV](data/Projects/UAV/Readme.md)
 
-<div align="center">
-<img width="45%" src="data/Projects/UAV/miqp.gif"> <img width="45%" src="data/Projects/UAV/faster_miqp.gif">
-<div>
+<p align="center">
+  <img width="45%" src="data/Projects/UAV/miqp.gif">
+  <img width="45%" src="data/Projects/UAV/faster_miqp.gif">
+</p>
 
 - Developed an autonomous flight stack for an UAV using A* as a global planner and a MIQP based receding horizon local planner solved using the Gurobi C++ API to obtain a time optimal path achieving 20% faster trajectories than conventional QP methods
 - Developed the entire stack in ROS2 C++ integrating LIDAR based SLAM to develop real-time costmaps and obtain convex collision-free corridors for the MIQP planner and validated in Gazebo simulation environment
