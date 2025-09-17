@@ -28,12 +28,10 @@ Working for 18 months at Strider Robotics, I learnt the entire product-developme
 
 ### [6D Pose estimation using RGB Camera](data/Projects/DOPE/Readme.md) 
 
-<div align="center">
-<video width="80%" controls>
-  <source src="data/Projects/DOPE/PRCV_FINAL.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-</div>
+
+https://github.com/user-attachments/assets/735b7227-9c3b-416b-b3b8-5634fb23791b
+
+v>
 
 - Developed a real-time 6-DoF object pose estimation system by training a multi-stage Convolutional Neural Network with VGG-19 backbone  in PyTorch to predict belief and affinity maps integrating OpenCV’s EPnP + RANSAC for accurate pose recovery
 - Generated 40K+ synthetic RGB images using BlenderProc and designed data pre/post-processing pipelines, enabling zero-shot sim-to-real inference at 15–20 FPS on consumer-grade GPUs
@@ -43,9 +41,7 @@ Working for 18 months at Strider Robotics, I learnt the entire product-developme
 ### [Time optimal trajectory planning for a UAV](data/Projects/UAV/Readme.md)
 <div align="center">
 <img width="45%" src="miqp.gif"> <img width="45%" src="faster_miqp.gif">
-</div>
-	<img width = "80%" src="data/Projects/UAV/miqp.gif">
-</div>
+
 
 - Developed an autonomous flight stack for an UAV using A* as a global planner and a MIQP based receding horizon local planner solved using the Gurobi C++ API to obtain a time optimal path achieving 20% faster trajectories than conventional QP methods
 - Developed the entire stack in ROS2 C++ integrating LIDAR based SLAM to develop real-time costmaps and obtain convex collision-free corridors for the MIQP planner and validated in Gazebo simulation environment
@@ -53,12 +49,11 @@ Working for 18 months at Strider Robotics, I learnt the entire product-developme
 
 ### [Reinforcement Learning Policy for Autonomous Racing](data/Projects/F1tenth/Readme.md)
 
-<div align="center">
-<video width="80%" controls>
-  <source src="data/Projects/F1tenth/f2.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-</div>
+
+
+https://github.com/user-attachments/assets/35e1bfc0-d423-4540-aadc-89d99478a256
+
+
 
 - Developed a full autonomous racing pipeline for a 1/10th-scale autonomous racecar, implemented a Model Predictive Contouring Control (MPCC) in ROS2 C++ to follow a precomputed raceline deployed on an Intel NUC-ANHi5 for real-time control 
 - Developed a Soft Actor Critic (SAC) policy in PyTorch with Stable-Baselines3, incorporating reward shaping to improve lap times by 15% over baseline controllers in both simulation and hardware experiments
