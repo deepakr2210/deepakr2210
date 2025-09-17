@@ -39,10 +39,11 @@ v>
 
 
 ### [Time optimal trajectory planning for a UAV](data/Projects/UAV/Readme.md)
+
 <div align="center">
-<img width="45%" src="miqp.gif"> <img width="45%" src="faster_miqp.gif">
+<img width="45%" src="data/Projects/UAV/miqp.gif"> <img width="45%" src="data/Projects/UAV/faster_miqp.gif">
 
-
+v>
 - Developed an autonomous flight stack for an UAV using A* as a global planner and a MIQP based receding horizon local planner solved using the Gurobi C++ API to obtain a time optimal path achieving 20% faster trajectories than conventional QP methods
 - Developed the entire stack in ROS2 C++ integrating LIDAR based SLAM to develop real-time costmaps and obtain convex collision-free corridors for the MIQP planner and validated in Gazebo simulation environment
 
@@ -54,7 +55,7 @@ v>
 https://github.com/user-attachments/assets/35e1bfc0-d423-4540-aadc-89d99478a256
 
 
-
+v>
 - Developed a full autonomous racing pipeline for a 1/10th-scale autonomous racecar, implemented a Model Predictive Contouring Control (MPCC) in ROS2 C++ to follow a precomputed raceline deployed on an Intel NUC-ANHi5 for real-time control 
 - Developed a Soft Actor Critic (SAC) policy in PyTorch with Stable-Baselines3, incorporating reward shaping to improve lap times by 15% over baseline controllers in both simulation and hardware experiments
 - Integrated Hokuyo 2D LiDAR scans with wheel-encoder odometry via Adaptive Monte Carlo Localization to output a fused 2D pose to the controller, improving robustness to slip and ensuring reliable high-speed lap tracking across track layouts
