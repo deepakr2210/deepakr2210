@@ -57,7 +57,9 @@ https://github.com/user-attachments/assets/735b7227-9c3b-416b-b3b8-5634fb23791b
 
 
 
-https://github.com/user-attachments/assets/35e1bfc0-d423-4540-aadc-89d99478a256
+<div align="center">
+	<img src="https://github.com/user-attachments/assets/35e1bfc0-d423-4540-aadc-89d99478a256" width="70%">
+</div>
 
 
 
