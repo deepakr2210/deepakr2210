@@ -22,6 +22,10 @@ Working for 18 months at Strider Robotics, I learnt the entire product-developme
 
 ## HARPY - A thrust assisited bipedal robot
 
+
+https://github.com/user-attachments/assets/0e37490c-4a58-40f7-87bb-263350ca5c5a
+
+
 ---
 
 ## 🛠️ Projects
