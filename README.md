@@ -6,8 +6,8 @@ Hi! I am a passionate mechanical engineer and aspiring roboticist with hands-on 
 Working for 18 months at Strider Robotics, I learnt the entire product-development cycle from a reasearch prototye to a market ready product. I was able to solve real world problems by leveraging my skills in CAD modelling, Linear and non-linear FEA, Multi-body dynamic analysis, Design for Assembly & Manufacturing and drafting engineering drawings using GD&T. 
 
 
-
-
+---
+[RESUME](data/Deepak_resume.pdf)
 ---
 
 ## 📚 Table of Contents
