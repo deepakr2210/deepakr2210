@@ -1,7 +1,10 @@
  <h1 align="center"> DEEPAK RAMESH</h1>
 
 
-Hi! I am a passionate mechanical engineer and aspiring roboticist with hands-on experience working in startups and projects, currently persuing MS Robotics at Northeastern University. Areas of interest include Control Systems, SLAM, Computer Vision and Reinforcement Learning. 
+
+Hi! I'm a Robotics engineer passionate about building reliable, high-performance systems that bridge mechanics, electronics, and control. From autonomous drones to bipedal robots, I focus on designing, prototyping, and testing solutions that work seamlessly in the real world. 
+
+ Areas of interest include Control Systems, SLAM, Computer Vision and Reinforcement Learning. 
 
 Working for 18 months at Strider Robotics, I learnt the entire product-development cycle from a reasearch prototye to a market ready product. I was able to solve real world problems by leveraging my skills in CAD modelling, Linear and non-linear FEA, Multi-body dynamic analysis, Design for Assembly & Manufacturing and drafting engineering drawings using GD&T. 
 
@@ -25,6 +28,7 @@ Working for 18 months at Strider Robotics, I learnt the entire product-developme
 
 https://github.com/user-attachments/assets/0e37490c-4a58-40f7-87bb-263350ca5c5a
 
+Working as a Research Assistant at [Silicon Synapse Lab](https://siliconsynapse.sites.northeastern.edu/) on a thrust assisted bipedal robot call HARPY! Working towards a thesis on developing a Whole Body Controller for multi-modal behaviours under the guidance of [Dr.Alireza Ramezani](https://coe.northeastern.edu/people/ramezani-alireza/)
 
 ---
 
@@ -37,9 +41,7 @@ https://github.com/user-attachments/assets/735b7227-9c3b-416b-b3b8-5634fb23791b
 
 
 
-- Developed a real-time 6-DoF object pose estimation system by training a multi-stage Convolutional Neural Network with VGG-19 backbone  in PyTorch to predict belief and affinity maps integrating OpenCV’s EPnP + RANSAC for accurate pose recovery
-- Generated 40K+ synthetic RGB images using BlenderProc and designed data pre/post-processing pipelines, enabling zero-shot sim-to-real inference at 15–20 FPS on consumer-grade GPUs
-- Achieved 92% ADD accuracy and strong real-world generalization, evaluated with KPD/AUC metrics, supporting robotic perception and vision-based planning tasks
+Developed a real-time 6-DoF object pose estimation system that uses RGB data running inference at 30 FPS on consumer grade GPUs. Trained a multi-stage Convolutional Neural Network in PyTorch with synthetically generated images and annotated datasets such as [YCB-Benchmarks](https://www.ycbbenchmarks.com/) to achieve 92% accuracy.
 
 
 ### [Time optimal trajectory planning for a UAV](data/Projects/UAV/Readme.md)
@@ -49,8 +51,7 @@ https://github.com/user-attachments/assets/735b7227-9c3b-416b-b3b8-5634fb23791b
   <img width="45%" src="data/Projects/UAV/faster_miqp.gif">
 </p>
 
-- Developed an autonomous flight stack for an UAV using A* as a global planner and a MIQP based receding horizon local planner solved using the Gurobi C++ API to obtain a time optimal path achieving 20% faster trajectories than conventional QP methods
-- Developed the entire stack in ROS2 C++ integrating LIDAR based SLAM to develop real-time costmaps and obtain convex collision-free corridors for the MIQP planner and validated in Gazebo simulation environment
+Developed an autonomous flight stack for an UAV to traverse in unkown terrain with a limited perception window. Formulating the trajectory optimizer as a MIQP gives a unique advantage of faster trajectories than conventional QP methods.
 
 
 ### [Reinforcement Learning Policy for Autonomous Racing](data/Projects/F1tenth/Readme.md)
@@ -64,9 +65,7 @@ https://github.com/user-attachments/assets/735b7227-9c3b-416b-b3b8-5634fb23791b
 
 
 
-- Developed a full autonomous racing pipeline for a 1/10th-scale autonomous racecar, implemented a Model Predictive Contouring Control (MPCC) in ROS2 C++ to follow a precomputed raceline deployed on an Intel NUC-ANHi5 for real-time control 
-- Developed a Soft Actor Critic (SAC) policy in PyTorch with Stable-Baselines3, incorporating reward shaping to improve lap times by 15% over baseline controllers in both simulation and hardware experiments
-- Integrated Hokuyo 2D LiDAR scans with wheel-encoder odometry via Adaptive Monte Carlo Localization to output a fused 2D pose to the controller, improving robustness to slip and ensuring reliable high-speed lap tracking across track layouts
+Developed a full autonomous racing pipeline for a 1/10th-scale autonomous racecar. Implemented control solutions such as MPCC, MPC, MPPI etc and also data driven mrthods such as SAC, PPO etc for real-time decision making on an Intel NUC. Implemented sensor fusion of LiDAR and odometry for localization and mapping to enable robust, real-time state estimation under dynamic race conditions
 
 
 ### [Electric All Terrain Vehicle](data/Projects/BAJA/Readme.md)
