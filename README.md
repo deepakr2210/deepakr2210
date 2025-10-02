@@ -58,8 +58,10 @@ Developed an autonomous flight stack for an UAV to traverse in unkown terrain wi
 
 
 
+# https://github.com/user-attachments/assets/35e1bfc0-d423-4540-aadc-89d99478a256
+
 <div align="center">
-	<video src="https://github.com/user-attachments/assets/35e1bfc0-d423-4540-aadc-89d99478a256" width="70%" controls>
+	<video src="https://github.com/user-attachments/assets/a2f2f59b-9123-4e85-a76c-d10a30bb94e7" width="70%" controls>
 	</video>
 </div>
 
