@@ -26,7 +26,10 @@ Working for 18 months at Strider Robotics, I learnt the entire product-developme
 ## HARPY - A thrust assisited bipedal robot
 
 
-https://github.com/user-attachments/assets/0e37490c-4a58-40f7-87bb-263350ca5c5a
+<div align="center">
+	<video src="https://github.com/user-attachments/assets/0e37490c-4a58-40f7-87bb-263350ca5c5a" width="70%" controls>
+	</video>
+</div>
 
 Working as a Research Assistant at [Silicon Synapse Lab](https://siliconsynapse.sites.northeastern.edu/) on a thrust assisted bipedal robot call HARPY! Working towards a thesis on developing a Whole Body Controller for multi-modal behaviours under the guidance of [Dr.Alireza Ramezani](https://coe.northeastern.edu/people/ramezani-alireza/)
 
@@ -37,8 +40,12 @@ Working as a Research Assistant at [Silicon Synapse Lab](https://siliconsynapse.
 ### [6D Pose estimation using RGB Camera](data/Projects/DOPE/Readme.md) 
 
 
-https://github.com/user-attachments/assets/735b7227-9c3b-416b-b3b8-5634fb23791b
 
+
+<div align="center">
+	<video src="https://github.com/user-attachments/assets/735b7227-9c3b-416b-b3b8-5634fb23791b" width="80%" controls>
+	</video>
+</div>
 
 
 Developed a real-time 6-DoF object pose estimation system that uses RGB data running inference at 30 FPS on consumer grade GPUs. Trained a multi-stage Convolutional Neural Network in PyTorch with synthetically generated images and annotated datasets such as [YCB-Benchmarks](https://www.ycbbenchmarks.com/) to achieve 92% accuracy.
@@ -58,7 +65,7 @@ Developed an autonomous flight stack for an UAV to traverse in unkown terrain wi
 
 
 
-# https://github.com/user-attachments/assets/35e1bfc0-d423-4540-aadc-89d99478a256
+<!-- https://github.com/user-attachments/assets/35e1bfc0-d423-4540-aadc-89d99478a256 -->
 
 <div align="center">
 	<video src="https://github.com/user-attachments/assets/a2f2f59b-9123-4e85-a76c-d10a30bb94e7" width="70%" controls>
