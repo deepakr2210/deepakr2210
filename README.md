@@ -55,11 +55,18 @@ Developed a real-time 6-DoF object pose estimation system that uses RGB data run
 	</video>
 </div> -->
 
-<p align="center">
+<!-- <p align="center">
 	<video src="https://github.com/user-attachments/assets/c1cde727-ff6d-448a-8fb1-ca5b24389beb" width="20%" controls>
 	</video>
-  <!-- <img width="45%" src="data/Projects/UAV/miqp.gif"> -->
+   <img width="45%" src="data/Projects/UAV/miqp.gif"> 
   <img width="45%" src="data/Projects/UAV/faster_miqp.gif">
+</p> -->
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/c1cde727-ff6d-448a-8fb1-ca5b24389beb"
+         width="45%" controls style="display:inline-block; vertical-align:top;">
+  </video>
+  <img width="45%" src="data/Projects/UAV/faster_miqp.gif"
+       style="display:inline-block; vertical-align:top;">
 </p>
 
 Developed an autonomous flight stack for an UAV to traverse in unkown terrain with a limited perception window. Formulating the trajectory optimizer as a MIQP gives a unique advantage of faster trajectories than conventional QP methods.
