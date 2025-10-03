@@ -49,11 +49,16 @@ Developed a real-time 6-DoF object pose estimation system that uses RGB data run
 
 
 ### [Time optimal trajectory planning for a UAV](data/Projects/UAV/Readme.md)
-https://github.com/user-attachments/assets/c1cde727-ff6d-448a-8fb1-ca5b24389beb
 
+<!-- <div align="center">
+	<video src="https://github.com/user-attachments/assets/c1cde727-ff6d-448a-8fb1-ca5b24389beb" width="80%" controls>
+	</video>
+</div> -->
 
 <p align="center">
-  <img width="45%" src="data/Projects/UAV/miqp.gif">
+	<video src="https://github.com/user-attachments/assets/c1cde727-ff6d-448a-8fb1-ca5b24389beb" width="45%" controls>
+	</video>
+  <!-- <img width="45%" src="data/Projects/UAV/miqp.gif"> -->
   <img width="45%" src="data/Projects/UAV/faster_miqp.gif">
 </p>
 
