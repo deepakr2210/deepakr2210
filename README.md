@@ -39,9 +39,6 @@ Working as a Research Assistant at [Silicon Synapse Lab](https://siliconsynapse.
 
 ### [6D Pose estimation using RGB Camera](data/Projects/DOPE/Readme.md) 
 
-
-
-
 <div align="center">
 	<video src="https://github.com/user-attachments/assets/735b7227-9c3b-416b-b3b8-5634fb23791b" width="80%" controls>
 	</video>
@@ -52,6 +49,8 @@ Developed a real-time 6-DoF object pose estimation system that uses RGB data run
 
 
 ### [Time optimal trajectory planning for a UAV](data/Projects/UAV/Readme.md)
+https://github.com/user-attachments/assets/c1cde727-ff6d-448a-8fb1-ca5b24389beb
+
 
 <p align="center">
   <img width="45%" src="data/Projects/UAV/miqp.gif">
@@ -62,8 +61,6 @@ Developed an autonomous flight stack for an UAV to traverse in unkown terrain wi
 
 
 ### [Reinforcement Learning Policy for Autonomous Racing](data/Projects/F1tenth/Readme.md)
-
-
 
 <!-- https://github.com/user-attachments/assets/35e1bfc0-d423-4540-aadc-89d99478a256 -->
 
