@@ -56,7 +56,7 @@ Developed a real-time 6-DoF object pose estimation system that uses RGB data run
 </div> -->
 
 <p align="center">
-	<video src="https://github.com/user-attachments/assets/c1cde727-ff6d-448a-8fb1-ca5b24389beb" width="45%" controls>
+	<video src="https://github.com/user-attachments/assets/c1cde727-ff6d-448a-8fb1-ca5b24389beb" width="20%" controls>
 	</video>
   <!-- <img width="45%" src="data/Projects/UAV/miqp.gif"> -->
   <img width="45%" src="data/Projects/UAV/faster_miqp.gif">
