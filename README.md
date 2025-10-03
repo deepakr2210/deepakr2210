@@ -50,10 +50,10 @@ Developed a real-time 6-DoF object pose estimation system that uses RGB data run
 
 ### [Time optimal trajectory planning for a UAV](data/Projects/UAV/Readme.md)
 
-<!-- <div align="center">
-	<video src="https://github.com/user-attachments/assets/c1cde727-ff6d-448a-8fb1-ca5b24389beb" width="80%" controls>
+<div align="center">
+	<video src="https://github.com/user-attachments/assets/c1cde727-ff6d-448a-8fb1-ca5b24389beb" width="60%" controls>
 	</video>
-</div> -->
+</div> 
 
 <!-- <p align="center">
 	<video src="https://github.com/user-attachments/assets/c1cde727-ff6d-448a-8fb1-ca5b24389beb" width="20%" controls>
@@ -61,13 +61,8 @@ Developed a real-time 6-DoF object pose estimation system that uses RGB data run
    <img width="45%" src="data/Projects/UAV/miqp.gif"> 
   <img width="45%" src="data/Projects/UAV/faster_miqp.gif">
 </p> -->
-<div style="display:flex; justify-content:center; align-items:center; gap:10px;">
-  <video src="https://github.com/user-attachments/assets/c1cde727-ff6d-448a-8fb1-ca5b24389beb"
-         style="width:45%;" controls></video>
-  <img src="data/Projects/UAV/faster_miqp.gif" style="width:45%;">
-</div>
 
-Developed an autonomous flight stack for an UAV to traverse in unkown terrain with a limited perception window. Formulating the trajectory optimizer as a MIQP gives a unique advantage of faster trajectories than conventional QP methods.
+Developed an autonomous flight stack for an UAV to traverse in unkown terrain with a limited perception window. Used A* as a global planner. Formulating the trajectory optimizer as a MIQP gives a unique advantage of faster trajectories than conventional QP methods.
 
 
 ### [Reinforcement Learning Policy for Autonomous Racing](data/Projects/F1tenth/Readme.md)
